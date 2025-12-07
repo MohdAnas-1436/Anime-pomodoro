@@ -166,10 +166,7 @@ Right-click → Open with → Chrome/Edge/Firefox
 ```
 OR
 
-
-```
 Click Here: https://anime-pomodoro.netlify.app/
-```
 
 ---
 
@@ -183,3 +180,4 @@ This project is free to use, modify, and integrate into personal or educational 
 
 Designed and developed with a focus on aesthetics and productivity.
 Feel free to improve or extend it!
+
